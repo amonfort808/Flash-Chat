@@ -12,13 +12,17 @@ This application was an introduction to utilizing Firebase as a cloud based data
 * Creating custom .xib files to modify default design components
 * Used grand central dispatch to queue asynchronous tasks
 
-## Snapshots of App
+### Snapshots of App
 
-1. Start Screen
-![Start Screen](images/start-screen.png)
+## Start Screen
+<img src="/Images/start-screen.png" alt="Start Screen" width="50%" height="50%">
 
-2. Login Screen
-![Login Screen](images/login-screen.png)
 
-3. Chat Screen
-![Chat Screen](images/chat-screen.png)
+
+### Login Screen
+<img src="/Images/login-screen.png" alt="Login Screen" width="50%" height="50%">
+
+
+
+### Chat Screen
+<img src="/Images/chat-screen.png" alt="Chat Screen" width="50%" height="50%">
