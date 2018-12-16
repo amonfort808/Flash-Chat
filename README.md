@@ -15,10 +15,10 @@ This application was an introduction to utilizing Firebase as a cloud based data
 ## Snapshots of App
 
 1. Start Screen
-![alt text](https://raw.githubusercontent.com/amonfort808/flash-chat/images/start-screen.png)
+![Start Screen](images/start-screen.png)
 
 2. Login Screen
-![alt text](https://raw.githubusercontent.com/amonfort808/flash-chat/images/login-screen.png)
+![Login Screen](images/login-screen.png)
 
 3. Chat Screen
-![alt text](https://raw.githubusercontent.com/amonfort808/flash-chat/images/chat-screen.png)
+![Chat Screen](images/chat-screen.png)
