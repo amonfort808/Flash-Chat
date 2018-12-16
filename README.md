@@ -11,3 +11,14 @@ This application was an introduction to utilizing Firebase as a cloud based data
 * Utilization of the Navigation Controller with embed View Controllers
 * Creating custom .xib files to modify default design components
 * Used grand central dispatch to queue asynchronous tasks
+
+## Snapshots of App
+
+1. Start Screen
+![alt text](https://raw.githubusercontent.com/amonfort808/flash-chat/images/start-screen.png)
+
+2. Login Screen
+![alt text](https://raw.githubusercontent.com/amonfort808/flash-chat/images/login-screen.png)
+
+3. Chat Screen
+![alt text](https://raw.githubusercontent.com/amonfort808/flash-chat/images/chat-screen.png)
